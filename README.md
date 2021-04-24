@@ -16,7 +16,7 @@ Deface/Hack Website Automatically Easily
 
 * `pkg install git`
 
-* `git clone http://github.com/nfs-tech-bd/autodeface`
+* `git clone http://github.com/nfs-tech-bd/auto-deface`
 
 * `cd auto-deface`
 
